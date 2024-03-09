@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rakshita123136
+- 👋 Hi, I’m jyotika uppar
 - 👀 I’m interested in ...learning and exploring
-- 🌱 I’m currently learning ...programming languages
+- 🌱 I’m currently learning ...c,c++ programming languages
 - 💞️ I’m looking to collaborate on ...things which can build my skills
 - 📫 How to reach me ...jayauppar2@gmail.com
 
