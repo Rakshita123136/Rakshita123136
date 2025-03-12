@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi , I m Jyotika Uppar Highly motivated second-year student interested in AI/ML and web development, passionate about solving complex problems, and leveraging programming languages such as Python, Java, and JavaScript. Demonstrates the ability to learn quickly and adapt to new challenges. As a fresher, I am seeking an internship opportunity where I can sharpen my skills and acquire more related skills on Technology.
+
+<h3> Hi , I m Jyotika Uppar Highly motivated second-year student interested in AI/ML and web development, passionate about solving complex problems, and leveraging programming languages such as Python, Java, and JavaScript. Demonstrates the ability to learn quickly and adapt to new challenges..</h3>
 
 
 ## 🌐 Socials:
